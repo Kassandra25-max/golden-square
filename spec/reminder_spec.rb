@@ -8,3 +8,4 @@ RSpec.describe Reminder do
         expect(result).to eq "Go to the gym, Kassandra!"
     end
 end
+
